@@ -1,0 +1,10 @@
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.csprojAssemblyReference.cache
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.Properties.Resources.resources
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.csproj.GenerateResource.cache
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.csproj.CoreCompileInputs.cache
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\bin\Debug\OOP4_1.exe.config
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\bin\Debug\OOP4_1.exe
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\bin\Debug\OOP4_1.pdb
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.Form1.resources
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.exe
+C:\Users\dlya_\source\repos\OOP4_1\OOP4_1\obj\Debug\OOP4_1.pdb
